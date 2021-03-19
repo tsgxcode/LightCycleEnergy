@@ -1,5 +1,7 @@
 namespace LightCycleEnergy
 {
     class LightMap
-    {}
+    {
+
+    }
 }

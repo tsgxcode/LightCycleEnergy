@@ -8,6 +8,8 @@ namespace LightCycleEnergy
         {
             //LightAmp object/Instance
             LightMap lightmap = new LightMap();
+
+            Console.WriteLine("Making Light Cycles");
         }
     }
 }
