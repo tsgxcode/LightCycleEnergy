@@ -1,6 +1,0 @@
-﻿namespace LightCycleEnergy
-{
-    class EnergyBase
-    {
-    }
-}

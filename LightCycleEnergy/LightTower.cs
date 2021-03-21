@@ -4,12 +4,8 @@ using System.Text;
 
 namespace LightCycleEnergy
 {
-    class LightMap
+    class LightTower
     {
-        //Light field
-        public int Width;
-        public int Height;
-
 
     }
 }
